@@ -1,0 +1,1 @@
+scrapy crawl amazon -o ./data/data.json
